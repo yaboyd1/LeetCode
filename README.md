@@ -8,11 +8,11 @@ Practicing Java
 
 1. Introduction
 
-	* [Max Consectuive Ones](/findMaxConsectiveOnes.java/)
+	* [Max Consectuive Ones](/Arrays101/Introduction/findMaxConsectiveOnes.java/)
 
-	* [Find Numbers with Even Number of Digits](/findEvenDigits.java/)
+	* [Find Numbers with Even Number of Digits](/Arrays101/Introduction/findEvenDigits.java/)
 
-	* Squares of a Sorted Array
+	* [Squares of a Sorted Array](/Arrays101/Introduction/sortedSquares.java/)
 
 2. Inserting
 
@@ -34,9 +34,9 @@ Practicing Java
 
 5. In-Place Operations
 
-	* [Replace Elements with Greates Elemtn of Right Side](/replaceElementsWithMax.java/)
+	* [Replace Elements with Greates Elemtn of Right Side](/Arrays101/In-Place/replaceElementsWithMax.java/)
 
-	* [Move Zeros](/moveZeros.java/)
+	* [Move Zeros](/Arrays101/In-Place/moveZeros.java/)
 
 	* Sort Array by Parity
 
