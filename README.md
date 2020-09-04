@@ -40,7 +40,7 @@ Practicing Java
 
 	* Sort Array by Parity
 
-	* Squares of a Sorted Array
+	* [Squares of a Sorted Array](/Arrays101/In-Place/sortedSquaresInPlace.java)
 
 6. Conclusion
 
