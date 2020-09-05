@@ -18,7 +18,7 @@ Practicing Java
 
 	* Duplicate Zeros
 
-	* Merge Sorted Array
+	* [Merge Sorted Array](/Arrays101/Inserting/mergeSortedArrays.java/)
 
 3. Deleting
 
