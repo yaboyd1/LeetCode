@@ -22,7 +22,7 @@ Practicing Java
 
 3. Deleting
 
-	* Remove Element
+	* [Remove Element](/Arrays101/Deleting/removeElement.java/)
 
 	* Remove Duplicates from Sorted Array
 
