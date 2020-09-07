@@ -24,7 +24,7 @@ Practicing Java
 
 	* [Remove Element](/Arrays101/Deleting/removeElement.java/)
 
-	* Remove Duplicates from Sorted Array
+	* [Remove Duplicates from Sorted Array](/Arrays101/Deleting/removeDuplicated.java/)
 
 4. Searching
 
@@ -34,7 +34,7 @@ Practicing Java
 
 5. In-Place Operations
 
-	* [Replace Elements with Greates Elemtn of Right Side](/Arrays101/In-Place/replaceElementsWithMax.java/)
+	* [Replace Elements with Greatest Element of Right Side](/Arrays101/In-Place/replaceElementsWithMax.java/)
 
 	* [Move Zeros](/Arrays101/In-Place/moveZeros.java/)
 
