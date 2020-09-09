@@ -28,7 +28,7 @@ Practicing Java
 
 4. Searching
 
-	* Check if N and its Double Exist
+	* [Check if N and its Double Exist](/Arrays101/Searching/checkIfDoubleExist.java/)
 
 	* Valid Mountain Array
 
