@@ -38,7 +38,7 @@ Practicing Java
 
 	* [Move Zeros](/Arrays101/In-Place/moveZeros.java/)
 
-	* Sort Array by Parity
+	* [Sort Array by Parity](/Arrays101/In-Place/sortByParity.java/)
 
 	* [Squares of a Sorted Array](/Arrays101/In-Place/sortedSquaresInPlace.java)
 
