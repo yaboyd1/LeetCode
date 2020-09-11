@@ -44,7 +44,7 @@ Practicing Java
 
 6. Conclusion
 
-	* Height Checker
+	* [Height Checker](/Arrays101/Conclusion/heightChecker.java/)
 
 	* Third Maximum Number
 
