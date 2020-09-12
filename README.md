@@ -48,4 +48,4 @@ Practicing Java
 
 	* Third Maximum Number
 
-	* Find All Numbers Disappeared in an Array
+	* [Find All Numbers Disappeared in an Array](/Arrays101/Conclustion/findDisappearedNumbers/)
