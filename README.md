@@ -16,7 +16,7 @@ Practicing Java
 
 2. Inserting
 
-	* Duplicate Zeros
+	* [Duplicate Zeros](/Arrays101/Inserting/duplicateZeros.java/)
 
 	* [Merge Sorted Array](/Arrays101/Inserting/mergeSortedArrays.java/)
 
