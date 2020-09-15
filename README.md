@@ -46,6 +46,6 @@ Practicing Java
 
 	* [Height Checker](/Arrays101/Conclusion/heightChecker.java/)
 
-	* Third Maximum Number
+	* [Third Maximum Number](/Arrays101/Conclusion/thirdMax.java/)
 
 	* [Find All Numbers Disappeared in an Array](/Arrays101/Conclustion/findDisappearedNumbers/)
